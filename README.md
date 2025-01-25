@@ -1,1 +1,9 @@
 # Drought-events-of-China-from-1980-to-2022
+
+The file adfeature.mat contains the drought characteristics of agricultural drought events, where the first column is the event ID of the agricultural drought events; the second column represents drought severity, measured in month·km²; the third column is the area affected by the event, measured in km²; the fourth column indicates the migration distance of the drought event's centroid, measured in kilometers; and the fifth column is the duration of the drought event, measured in months.
+
+The file adcentroid.mat contains the centroid coordinates of all agricultural drought events for each month during their durations. In this file, the first column is the event ID of the agricultural drought events; the second column denotes the occurrence month of the agricultural drought event, with January 1981 as the starting month; the third and fourth columns are the longitude and latitude coordinates of the centroid, respectively.
+
+The file mdfeature.mat contains the drought characteristics of meteorological drought events, where the first column is the event ID of the meteorological drought events; the second column represents drought severity, measured in month·km²; the third column is the area affected by the event, measured in km²; the fourth column indicates the migration distance of the drought event's centroid, measured in kilometers; and the fifth column is the duration of the drought event, measured in months.
+
+The file mdcentroid.mat contains the centroid coordinates of all meteorological drought events for each month during their durations. In this file, the first column is the event ID of the meteorological drought events; the second column denotes the occurrence month of the meteorological drought event, with January 1981 as the starting month; the third and fourth columns are the longitude and latitude coordinates of the centroid, respectively.
